@@ -16,6 +16,7 @@ https://www.youtube.com/@alohaclass8075
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=pie&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=wwwalohacampus&theme=github-dark-blue&locale=ko)](https://git.io/streak-stats)
 
 <!--
 **wwwalohacampus/wwwalohacampus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
