@@ -17,6 +17,8 @@ https://www.youtube.com/@alohaclass8075
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wwwalohacampus&theme=github-dark-blue&locale=ko)](https://git.io/streak-stats)
 
+<!-- 잔디 -->
+<img src="https://ghchart.rshah.org/219138/wwwalohacampus"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=pie&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 
