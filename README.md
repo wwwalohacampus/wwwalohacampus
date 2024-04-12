@@ -1,6 +1,6 @@
 
 # 👩‍🏫📽 YOUTUBE 
-https://www.youtube.com/@alohaclass8075
+https://www.youtube.com/@alohaclass
 <br>
 
 <!-- 잔디 -->
