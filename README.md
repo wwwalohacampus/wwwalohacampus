@@ -2,8 +2,7 @@
 # 👩‍🏫📽 YOUTUBE 
 https://www.youtube.com/@alohaclass
 <br>
-<a href="https://www.youtube.com/channel/UCVqCofIsA8rXp8Nm0-Rzo0A?sub_confirmation=1" rel="nofollow"><img alt="Youtube" title="Youtube" src="https://i.imgur.com/Fj6mooW.png" data-canonical-src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
-
+<a href="https://www.youtube.com/channel/UCVqCofIsA8rXp8Nm0-Rzo0A?sub_confirmation=1" rel="nofollow"><img alt="Youtube" title="Youtube" src="https://i.imgur.com/Fj6mooW.png" data-canonical-src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 400px;"></a>
 <!-- 잔디 -->
 ### Contribution Graph 
 <img src="https://ghchart.rshah.org/219138/wwwalohacampus" />
