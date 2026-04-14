@@ -27,8 +27,10 @@
 
 -->
 <!-- 대표 앱 -->
+<!-- 썹종
 ### Primary Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=web_design_ginuengsa&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/web_design_ginuengsa)
+-->
 
 <!-- 깃 스텟 -->
 ### Git Ranker
@@ -41,8 +43,10 @@
 ### Git Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=wwwalohacampus&theme=github-dark-blue&locale=ko)](https://git.io/streak-stats)
 
+<!-- 썹종
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=pie&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
+-->
 
 <!-- 백준 --> 
 <!--
