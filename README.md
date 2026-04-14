@@ -1,27 +1,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=🌴ALOHA%20CLASS&fontColor=003300&fontSize=40&fontAlign=50&animation=fadeIn&rotate=5&fontAlignY=40" width="100%" />
 
+
 <div align="center">
+<a href="https://www.youtube.com/channel/UCVqCofIsA8rXp8Nm0-Rzo0A?sub_confirmation=1" rel="nofollow"><img alt="Youtube" title="Youtube" src="https://i.imgur.com/Fj6mooW.png" data-canonical-src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="width: 320px; max-width:100%"></a>
+<br><br>
 
-### 👨‍🏫 ALOHA CLASS  
-💡 Backend · Frontend · Mobile · Cloud 개발 & 교육
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=wwwalohacampus&color=green" />
 
 </div>
 
----
 
-## 🎥 YouTube
 <div align="center">
-<a href="https://www.youtube.com/channel/UCVqCofIsA8rXp8Nm0-Rzo0A?sub_confirmation=1" rel="nofollow"><img alt="Youtube" title="Youtube" src="https://i.imgur.com/Fj6mooW.png" data-canonical-src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="width: 320px; max-width:100%"></a>
+  
+## 👨‍🏫 ALOHA CLASS  
+💡 Backend · Frontend · Mobile · Cloud 개발 & 교육
 <br><br>
 <a href="https://www.youtube.com/channel/UCVqCofIsA8rXp8Nm0-Rzo0A?sub_confirmation=1">
 <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=wwwalohacampus&color=green" />
+<br>
+
 
 </div>
+
+
 
 
 
