@@ -1,4 +1,6 @@
-## ALOHA CLASS 알로하 클래스 🌴
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=🌴ALOHA%20CLASS&textBg=false&fontColor=003300&fontSize=40&fontAlign=50&animation=fadeIn&rotate=5&fontAlignY=40" />
+
+
 
 
 # 👩‍🏫📽 YOUTUBE 
